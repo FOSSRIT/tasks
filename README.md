@@ -10,7 +10,7 @@ This repository is a public ticketing system used by [FOSS@MAGIC](http://foss.ri
 It is used both by students and RIT MAGIC faculty and staff.
 Its purpose is to track progress of on-going and upcoming tasks and help prioritize focus.
 Tasks are created as **issues** in the GitHub interface.
-The [project board](https://github.com/FOSSRIT/tasks/projects/1?fullscreen=true) uses kanban to organize and track progress.
+The [project board](https://github.com/FOSSRIT/tasks/projects/) uses kanban to organize and track progress.
 
 
 ## License
